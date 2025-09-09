@@ -35,6 +35,10 @@ The main objectives of this course are to:
    - Projects sales data for the next 15 days based on historical trends.
    - Supports proactive inventory and staffing decisions.
   
+Access the Project:
+GitHub: [https://lnkd.in/dwQtwHCw] 🔗
+Google Drive: [https://lnkd.in/dsSv5Xqe] 🔗
+Microsoft Community: [https://lnkd.in/dr_3qbhx ]🔗
 
 
 Feel free to modify sections as necessary, especially the installation instructions and data sources, to fit your specific project details!
