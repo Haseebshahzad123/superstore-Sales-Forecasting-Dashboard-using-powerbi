@@ -39,6 +39,7 @@ Access the Project:
 GitHub: [https://lnkd.in/dwQtwHCw] 🔗
 Google Drive: [https://lnkd.in/dsSv5Xqe] 🔗
 Microsoft Community: [https://lnkd.in/dr_3qbhx ]🔗
+linkdin: [https://www.linkedin.com/feed/update/urn:li:ugcPost:7371180064685772800/]
 
 
 Feel free to modify sections as necessary, especially the installation instructions and data sources, to fit your specific project details!
